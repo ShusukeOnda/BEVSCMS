@@ -1,4 +1,4 @@
-package BEVSCMS;
+package javasrc;
 
 import java.sql.Statement;
 import java.sql.Connection;

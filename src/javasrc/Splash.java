@@ -1,4 +1,4 @@
-package BEVSCMS;
+package javasrc;
 
 public class Splash extends javax.swing.JFrame {
     

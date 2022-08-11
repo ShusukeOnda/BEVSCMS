@@ -1,4 +1,4 @@
-package BEVSCMS;
+package javasrc;
 
 import javax.swing.JOptionPane;
 

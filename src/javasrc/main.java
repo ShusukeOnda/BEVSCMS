@@ -1,4 +1,4 @@
-package BEVSCMS;
+package javasrc;
 
 public class main {
     

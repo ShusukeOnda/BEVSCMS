@@ -1,4 +1,4 @@
-package BEVSCMS;
+package javasrc;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
@@ -362,7 +362,7 @@ public class Add extends javax.swing.JFrame {
         );
         layout.setVerticalGroup(
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addComponent(jPanel1, javax.swing.GroupLayout.PREFERRED_SIZE, 800, Short.MAX_VALUE)
+            .addComponent(jPanel1, javax.swing.GroupLayout.DEFAULT_SIZE, 800, Short.MAX_VALUE)
         );
 
         pack();
