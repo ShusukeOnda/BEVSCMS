@@ -74,6 +74,14 @@ This application is developed in NetbeansIDE using Java.
 
 - You can move to any page(Home, Register, Add, View) with the button on the left bar.(input information is not retained)
 
+### Library & Other
+
+- Java DB Driver - derby.jar
+- Java DB Driver - derbyclient.jar
+- Java DB Driver - derbynet.jar
+- rs2xml.jar
+- JDK 18
+
 ### Improvement & Application
 
 - Replace JavaDB(Derby) with blockchain system.
