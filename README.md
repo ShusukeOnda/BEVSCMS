@@ -20,6 +20,8 @@ This application is developed in NetbeansIDE using Java.
 
 - You can login with USER_ID: admin and PASSWORD: admin. You can move to the Home view and check the explanation and how to use it(Japanese).
 
+<img src="./ReadmeImages/Home.png" width="400px">
+
 - Return to the login window with the Logout button.
 
 ![logout](./ReadmeImages/Logout.png)
@@ -28,12 +30,16 @@ This application is developed in NetbeansIDE using Java.
 
 - Register battery information in the Register view.
 
+<img src="./ReadmeImages/Register0.png" width="400px">
+
 - If there are blanks or the already registered battery number is entered, a warning will be displayed.  
   If there is no problem, "登録しました！" is displayed.
 
 <img src="./ReadmeImages/Register1.png" width="320px"> <img src="./ReadmeImages/Register2.png" width="320px"> <img src="./ReadmeImages/Register3.png" width="320px">
 
 - In the Add view, you can read registered battery information and add vehicle information.
+
+<img src="./ReadmeImages/Add0.png" width="400px">
 
 - When you press the "バッテリーデータ読み込み" button after entering battery number, the manufacturing date and material number are automatically entered.
 
@@ -64,7 +70,7 @@ This application is developed in NetbeansIDE using Java.
 - In the View window, you can check the registered battery information.  
   - All information is managed in Int type.
 
-![view1](./ReadmeImages/View1.png)
+<img src="./ReadmeImages/View0.png" width="400px">
 
 - You can move to any page(Home, Register, Add, View) with the button on the left bar.(input information is not retained)
 
