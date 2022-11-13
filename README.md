@@ -49,10 +49,11 @@ This application is developed in NetbeansIDE using Java.
   If there is no problem, "追加しました。" is displayed.
   
 ![add4](./ReadmeImages/Add4.png)
+<img src="./ReadmeImages/Add4.png" width="320px">
 
 - If there are blanks, a warning will be displayed.
 
-![add5](./ReadmeImages/Add5.png)
+<img src="./ReadmeImages/Add5.png" width="320px">
 
 - If you try to add new information when other information(Vehicle number, etc.) has already been added, a warning will be displayed.  
   (This is because this system assumes a blockchain system. Basically, registration and addition are only done once, and deletion and modification of information are carefully done after verification.)
