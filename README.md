@@ -8,6 +8,8 @@ This application is developed in NetbeansIDE using Java.
 
 - Transition from the splash window (temporary loading view) to the login window.
 
+![splash](./ReadmeImages/Splash.png)
+
 - User IDs and passwords are centrally managed by a management organization (e.g. car manufacturer) and inquired when necessary (cannot be changed or added arbitrarily).
 
 - If the ID or password is incorrect, a warning will be displayed.
