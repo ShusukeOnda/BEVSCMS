@@ -12,5 +12,5 @@ This application is developed in NetbeansIDE using Java.
 
 - A warning is displayed if the ID or password is incorrect.
 
-![login1](BEVSCMS/ReadmeImages/Login1.png)
+![login1](./ReadmeImages/Login1.png)
 
