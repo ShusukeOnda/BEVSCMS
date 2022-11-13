@@ -74,6 +74,13 @@ This application is developed in NetbeansIDE using Java.
 
 - You can move to any page(Home, Register, Add, View) with the button on the left bar.(input information is not retained)
 
+### Improvement & Application
 
+- Replace JavaDB(Derby) with blockchain system.
 
+- Application of automated input of information to prevent fraud and manual entry errors.
+
+- Addition of various stakeholders and accompanying additional individual information.
+
+- Further improvement of UI and UX.
 
