@@ -31,5 +31,4 @@ when there is a blank.
 When the already registered battery number is entered. 
 If there is no problem, display "登録しました！"
 
-![register1](./ReadmeImages/Register1.png) ![register2](./ReadmeImages/Register2.png) ![register3](./ReadmeImages/Register3.png)
-<img src="./ReadmeImages/Register1.png" width="300px"> <img src="./ReadmeImages/Register2.png" width="300px"> <img src="./ReadmeImages/Register3.png" width="300px">
+<img src="./ReadmeImages/Register1.png" width="320px"> <img src="./ReadmeImages/Register2.png" width="320px"> <img src="./ReadmeImages/Register3.png" width="320px">
