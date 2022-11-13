@@ -4,13 +4,13 @@ This is a prototype development of Supply chain management system application fo
 
 This application is developed in NetbeansIDE using Java.
 
-### Function
+### 1.Function
 
 - Transition from the splash window (temporary loading view) to the login window.
 
 - User IDs and passwords are centrally managed by a management organization (e.g. car manufacturer) and inquired when necessary (cannot be changed or added arbitrarily).
 
-- A warning is displayed if the ID or password is incorrect.
+- If the ID or password is incorrect, a warning will be displayed.
 
 ![login1](./ReadmeImages/Login1.png)
 
@@ -26,9 +26,46 @@ This application is developed in NetbeansIDE using Java.
 
 - Register battery information in the Register view.
 
-- When you press the register button, a warning is displayed in the following cases.    
-    - when there is a blank.    
-    - When the already registered battery number is entered.      
-      If there is no problem, display "登録しました！"
+- If there are blanks or the already registered battery number is entered, a warning will be displayed.  
+  If there is no problem, "登録しました！" is displayed.
 
 <img src="./ReadmeImages/Register1.png" width="320px"> <img src="./ReadmeImages/Register2.png" width="320px"> <img src="./ReadmeImages/Register3.png" width="320px">
+
+- In the Add view, you can read registered battery information and add vehicle information.
+
+- When you press the "バッテリーデータ読み込み" button after entering battery number, the manufacturing date and material number are automatically entered.
+
+![add1](./ReadmeImages/Add1.png)
+
+- If you press the button without entering the battery number, a warning will be displayed.
+
+![add2](./ReadmeImages/Add2.png)
+
+- If you enter an unregistered battery number and press the button, a warning will be displayed.
+
+![add3](./ReadmeImages/Add3.png)
+
+- After the data is automatically entered, enter other additional information and press the Add button to add the information.   
+  If there is no problem, "追加しました。" is displayed.
+  
+![add4](./ReadmeImages/Add4.png)
+
+- If there are blanks, a warning will be displayed.
+
+![add5](./ReadmeImages/Add5.png)
+
+- If you try to add new information when other information(Vehicle number, etc.) has already been added, a warning will be displayed.  
+  (This is because this system assumes a blockchain system. Basically, registration and addition are only done once, and deletion and modification of information are carefully done after verification.)
+
+![add6](./ReadmeImages/Add6.png)
+
+- In the View window, you can check the registered battery information.  
+  - All information is managed in Int type.
+
+![view1](./ReadmeImages/View1.png)
+
+- You can move to any page(Home, Register, Add, View) with the button on the left bar.(input information is not retained)
+
+
+
+
