@@ -26,7 +26,7 @@ This application is developed in NetbeansIDE using Java.
 
 - Register battery information in the Register view.
 
-- When you press the register button, a warning is displayed in the following cases.
+- When you press the register button, a warning is displayed in the following cases.  
     when there is a blank.
     When the already registered battery number is entered.
     If there is no problem, display "登録しました！"
